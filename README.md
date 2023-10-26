@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @KenyiShigeru
+¿Qué rollo viejón? Espero encuentres lo que ocupas padrino
 <p align="Center">
+  <p>Desarrolador en</p>
   <img src = https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg alt = "C" width="24px" height="24px"/>
 </p>
 
