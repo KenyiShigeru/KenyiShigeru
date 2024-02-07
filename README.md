@@ -2,7 +2,7 @@
 <p align="Center">
   <p>Desarrolador en</p>
   <img src = https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg alt = "C" width="24px" height="24px"/>
-  <img src = https://commons.wikimedia.org/wiki/File:Logo_C_sharp.svg#/media/File:Logo_C_sharp.svg alt = "C#", width = "24px" height = "24px"/>
+  <img src = https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg alt = "C#", width = "24px" height = "24px"/>
 </p>
 
 <!---
