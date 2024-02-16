@@ -2,8 +2,7 @@
 <p align="Center">
   <p>Desarrolador en</p>
   <img src = https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg alt = "C" width="24px" height="24px">
-  <img src = https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg alt = "C#", width = "24px" height = "24px"/>
-  <img src = https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg alt = "C#", width = "24px" height = "24px"/>
+  <img src = https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg alt = "C#", width = "24px" height = "24px"/><img src = https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg alt = "C#", width = "24px" height = "24px"/>
   Con herramientas tales como 
   <img src = https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg alt = "C#", width = "24px" height = "24px"/>
   <img src = https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg alt = "C#", width = "24px" height = "24px"/>
