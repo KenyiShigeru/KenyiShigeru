@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-🏫 Estudiante de ingeniería en Sistemas TEC Culiacán<br>🖥️ Técnico en Informática Conalep
+🏫 Ingeniero en Sistemas de Tecnológico de Culiacán.<br>🖥️ Técnico en Informática Conalep.<br>
 
 
 # 💻 Tecnologías:
